@@ -1,2 +1,2 @@
 # Hello-Biometrics
-my first biametrics project
+my first biometrics project
